@@ -1,3 +1,3 @@
 # dotfiles
 
-Personal sustem configuration files.
+Personal system configuration files.
